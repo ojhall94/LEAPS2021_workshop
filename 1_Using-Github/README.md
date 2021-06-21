@@ -88,6 +88,8 @@ but if the branch already exists on GitHub then you only need to use `git push`.
 
 Finally, once you're happy with your changes you can *merge* the branch back into `main`! You do this using a Pull Request. You can [open a new Pull Request on the repository here](https://github.com/ojhall94/LEAPS2021_workshop/compare). You can pick the branches to merge, and GitHub will check automatically for you whether there are any clashes. Since I am the owner of the repository, I will need to approve the Pull Request! Once I've done so, the contents of your branch, along with the branch's entire commit history, will become part of `main`.
 
+[You can view your changes on the main branch now!](https://github.com/ojhall94/LEAPS2021_workshop/blob/main/1_Using-Github/HELLO.md)
+
 *Tip*: When working on a branch you plan to eventually merge back into `main`, it is *really* important that you don't also work on the same file in `main` at the same time! When GitHub compares the two branches in a pull request, it will see that the two files clash with one another, and might not be able to merge them. Resolving this (usually) requires manually going through and picking and choosing which lines of code to keep... best to avoid it! I realise this is hypocritical, because everybody will be editing the same file... but hopefully the changes will be simple enough that it won't make a difference :)
 
 ### Pulling
