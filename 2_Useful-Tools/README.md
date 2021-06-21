@@ -23,7 +23,7 @@ Seaborn is another plotting library--- but it doesn't replace matplotlib. Instea
 [astropy](https://www.astropy.org/)  
 Astropy is (I believe) the biggest collaborative Python package in astronomy, encompassing a very broad range of tools, functions, and standards. Just look at [their gigantic list of tutorials](https://learn.astropy.org/tutorials.html)! Personally, I tend to use Astropy for astronomical constants, downloading data, and working with time-series photometry. However it is also full of tools to use with astronomical observatiosn specifically, which I have less experience in myself. I really recommend you check out the tutorials linked above for Astropy functions that fit your science interests!
 
-(...and one more just because)
+(...and one more just because)  
 [lightkurve](https://docs.lightkurve.org/)  
 Lightkurve is an awesome tool for working with *Kepler* and *TESS* data, full of functions that let you tidy up the data, look for transits, and study asteroseismic signals. I'm plugging it here a little bit because I've worked on it, but mostly because its an excellent example of how collaborative open source Python programming works in motion. I highly recommend checking it out, along with Topic 3, if you're interested.
 
