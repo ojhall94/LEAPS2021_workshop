@@ -6,6 +6,7 @@ In this tutorial, we're just going to be introduced to some of the commonly used
 
 ## The tools
 A list of all the packages you'll want to install are below:  
+
 [numpy](https://numpy.org/)  
 NumPy is one of the fundamental packages for Python (and without it, most of this programming language would crumble). It allows for fast arithmetic and use of arrays, which are ubiquitous in modern scientific analyses. No Python script is complete without it.
 
@@ -27,7 +28,7 @@ Astropy is (I believe) the biggest collaborative Python package in astronomy, en
 Astroquery is an Astropy-affiliated package that can be used to download data in combination with Astropy.
 
 (...and one more just because)  
-[lightkurve](https://docs.lightkurve.org/)  
+[Lightkurve](https://docs.lightkurve.org/)  
 Lightkurve is an awesome tool for working with *Kepler* and *TESS* data, full of functions that let you tidy up the data, look for transits, and study asteroseismic signals. I'm plugging it here a little bit because I've worked on it, but mostly because its an excellent example of how collaborative open source Python programming works in motion. I highly recommend checking it out, along with Topic 3, if you're interested.
 
 ## The Tutorial
