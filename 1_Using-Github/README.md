@@ -1,5 +1,4 @@
-# Topic 1
-## Using GitHub
+# Topic 1: Using GitHub
 GitHub is an absolutely essential tool in the arsenal of modern astronomers (and almost every other tech-focused career). It is an online version control manager, which can interface with `git` version control on your own machine. Using `git`, when you save work to a so-called 'repository', you can save whatever version you're currently working on, and always revert to past versions if you want to. Using GitHub, you can then upload these files, where they'll be stored and accessible from any machine anywhere.
 
 GitHub is also important for collaboration. You can create 'branches', where you can work on a new addition to some code until you're happy with it, and then 'merging' it back into the main repository. Or you can create a 'fork' -- a personal copy of a repository -- to make changes you want, before making a 'pull request' to merge your changes back into the main repository, in a process that allows your colleagues to weigh in and make changes themselves (for this, see *Topic 3*).
