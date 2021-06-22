@@ -2,6 +2,8 @@
 
 Leave your mark here!
 
+Have a nice day and night, everyone ^-^)/
+
 I have loved the stars too fondly to be fearful of the night!
 
 Good afternoon! 
