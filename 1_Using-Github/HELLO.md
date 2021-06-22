@@ -4,7 +4,7 @@ Leave your mark here!
 
 Good afternoon! 
 
-Bijaya: ![Bijaya](https://www.pinterest.com/pin/299630181458924141/)
+Bijaya: ![Bijaya](https://i.pinimg.com/originals/f6/4c/11/f64c11375c568004b061007d2f1b8f8b.gif)
 
 What did the ocean say to the other ocean? Nothing, they just waved
 ## Exhibit A: Oliver preparing this workshop
