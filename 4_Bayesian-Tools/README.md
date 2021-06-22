@@ -7,7 +7,7 @@ The school of Bayesian statistics is incredibly popular in contemporary astronom
 
 The main benefit of `emcee` over alternative Hamiltonian Monte Carlo (HMC) samplers (see below) is that its pure-Python implementation allows for a user to more easily incorporate Python-based functions into their model, which HMC samplers are less effective for. `emcee` can handle a couple 100 parameters, and is excellent for understanding how to set up likelihood functions in Python.
 
-To get started with `emcee`, [check out this excellent tutorial](https://emcee.readthedocs.io/en/stable/tutorials/line/), which has been copied into this repository.
+To get started with `emcee`, [check out this excellent tutorial](https://emcee.readthedocs.io/en/stable/tutorials/line/), which has been copied into this repository. If you're new to Bayesian statistics, I recommend you start here!
 
 [PyMC3](https://docs.pymc.io/)  
 `PyMC3` is a much more compehensive Bayesian analysis tool, mostly because it has its own built-in syntax. We call this a "probabilistic programming language" sometimes, although what it really means is just that we call functions from PyMC3 to set up our model, instead of defining them ourselves like with `emcee`. This comes with the downside that more flexible models are harder to achieve, but with the upside that PyMC3 runs increadibly efficiently, is very intuitive to use, and has more sampling options, such as gradient-based MCMC and Hamiltonian Monte-Carlo (HMC) algorithms with No U-Turns Samplers (NUTS), as well as some other stuff I'm not super familiar with such as variational inference and Stein Variational Gradient Descent. T
