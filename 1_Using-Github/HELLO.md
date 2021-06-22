@@ -4,3 +4,6 @@ Leave your mark here!
 
 ## Exhibit A: Oliver preparing this workshop
 ![Oliver preparing the workshop](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
+
+##Exhibit B:
+![](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
