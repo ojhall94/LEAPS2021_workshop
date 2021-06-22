@@ -18,11 +18,11 @@ I've included a PyMC3 tutorial in this repository, but if you're interested in (
 
 
 [Stan](https://mc-stan.org/) and [PyStan](https://pystan.readthedocs.io/en/latest/)  
-Much like PyMC3, Stan is a "probabilistic programming language" it's a bit more "pure" in the sense that when using Stan's API you can construct your own models using the Stan syntax, without having to resort to solely calling functions that are implemented in the program (like you have to do with PyMC3). This makes it just that little bit better when building complex custom models or priors, although PyMC3 is almost always enough.
+Much like PyMC3, Stan is a "probabilistic programming language" it's a bit more "pure" in the sense that when using Stan's API you can construct your own models using the Stan syntax, without having to resort to solely calling functions that are implemented in the program (like you have to do with PyMC3). This makes it just that little bit better when building complex custom models or priors.
 
-Like PyMC3, Stan uses HMC with a NUTS sampler, as well as variational inference for those interested. It can be run in a ton of different langauges including R, but fo the sake of this workshop we will focus on its Python implementation, `PyStan`.
+The flip side is that Stan is (in my opinion) quite unwieldy, and difficult to use. In fact, I was planning on including a Stan tutorial parallell to the PyMC3 one, but the syntax has changed and I ran out of time. So if you're really keen, you can have a go at the `pystan_example` code and see if you can fix the bugs I'm encountering!
 
-I've included a PyStan tutorial in this repository, which deals with the same example as the PyMC3 tutorial. If you get stuck, check out [the Stan documentation](https://mc-stan.org/users/documentation/), which is unbelievably comprehensive (but has a bit of a learning curve).
+If you get stuck with Stan at any point, check out [the Stan documentation](https://mc-stan.org/users/documentation/), which is unbelievably comprehensive (but has a bit of a learning curve).
 
 
 [celerité](https://celerite.readthedocs.io/en/stable/)  
