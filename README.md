@@ -14,3 +14,18 @@ A group-based collaboration activity to go through the motions of forking, setti
 A quick fitting example using PyMC3 and Stan. Prior knowledge of Bayesian statistics useful.
 
 If you have any questions, ping me an email at `oliver.hall [at] esa [dot] int`! Or send me a message on Slack.
+
+## Jupyter Notebooks
+
+In order to work with this many of these tutorials on your computer, you're going to have to install Jupyter Notebooks, if you haven't done so already. Jupyter Notebook comes pre-packaged with Anaconda, if you have that installed. To open Jupyter Notebook, you just type:
+
+```
+jupyter notebook &
+```
+
+in commandline. This opens a Jupyter Notebook in a browser terminal (although it's not online, it just uses a browser to work). If you don't use Anaconda (and don't have Jupyter installed), you can do so as follows:
+
+```
+pip3 install --upgrade pip
+pip3 install jupyter
+```
