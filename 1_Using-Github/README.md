@@ -57,7 +57,7 @@ git commit -m "Added some text to the HELLO file"
 This permanently stores this updated version of the repository! Finally, we can make sure that this commit is also backed up online, by 'pushing' to GitHub.
 
 ```
-git push
+git push --set-upstream origin <your name>
 ```
 
 *Tip*: You can add all files to the commit using `git add .`, but be careful! You want to make sure you don't include large data files or presentations that might be too big for GitHubs storage space.
