@@ -6,7 +6,7 @@ Have a nice day and night, everyone ^-^)/
 
 I have loved the stars too fondly to be fearful of the night!
 
-Good afternoon! 
+Good afternoon!
 
 Bijaya: ![Bijaya](https://i.pinimg.com/originals/f6/4c/11/f64c11375c568004b061007d2f1b8f8b.gif)
 
@@ -20,3 +20,6 @@ What did the ocean say to the other ocean? Nothing, they just waved
 
 ## Larissa
 ![Larissa](https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif)
+
+## Sarah
+![Sarah](https://media.giphy.com/media/FaKV1cVKlVRxC/giphy.gif)
